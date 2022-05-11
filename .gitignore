@@ -5,3 +5,6 @@ node_modules
 # Other
 .vscode
 *.db
+
+# Jest reports
+coverage
